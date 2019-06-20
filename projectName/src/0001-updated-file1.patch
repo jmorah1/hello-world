@@ -1,0 +1,23 @@
+From 2145a9eb9a9888b8df4c14fcd5112aad2cceb1ad Mon Sep 17 00:00:00 2001
+From: John Morah <john.morah@endurance.com>
+Date: Thu, 13 Jun 2019 14:40:06 -0500
+Subject: [PATCH] updated file1
+
+---
+ projectName/src/file1 | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/projectName/src/file1 b/projectName/src/file1
+index 4eef4a6..39b9594 100644
+--- a/projectName/src/file1
++++ b/projectName/src/file1
+@@ -1 +1,6 @@
++qqaa
++22wed
++a
++s
++sd
+ Test testing 1 2 3
+-- 
+2.17.2 (Apple Git-113)
+
